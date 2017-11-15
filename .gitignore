@@ -1,0 +1,5 @@
+*.xlsx
+*.py~
+*.py.un~
+*.py.swp
+*~
